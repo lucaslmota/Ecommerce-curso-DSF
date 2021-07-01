@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "FluentValidation/10.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {}
+        }
+      },
+      "5 - Ecomerce.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/5 - Ecomerce.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/5 - Ecomerce.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentValidation/10.1.0": {
+      "sha512": "RxhhfY9IcEY2qUMYjoUxegInbuE5Bwll7dVLsXpiJf25g0ztmzUK+HHqtPcub1caPemhMJsC+NwjHei+NgAkvA==",
+      "type": "package",
+      "path": "fluentvalidation/10.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluent-validation-icon.png",
+        "fluentvalidation.10.1.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "5 - Ecomerce.Core/1.0.0": {
+      "type": "project",
+      "path": "../5 - Ecomerce.Core/5 - Ecomerce.Core.csproj",
+      "msbuildProject": "../5 - Ecomerce.Core/5 - Ecomerce.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "5 - Ecomerce.Core >= 1.0.0",
+      "fluentvalidation >= 10.1.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/lucas/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/2 - Ecomerce.Domain.csproj",
+      "projectName": "2 - Ecomerce.Domain",
+      "projectPath": "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/2 - Ecomerce.Domain.csproj",
+      "packagesPath": "/home/lucas/.nuget/packages/",
+      "outputPath": "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/lucas/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/5 - Ecomerce.Core.csproj": {
+              "projectPath": "/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/5 - Ecomerce.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "fluentvalidation": {
+            "target": "Package",
+            "version": "[10.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

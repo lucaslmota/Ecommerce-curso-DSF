@@ -1,0 +1,378 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/1 - Ecomerce.API.csproj": {}
+  },
+  "projects": {
+    "/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/1 - Ecomerce.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/1 - Ecomerce.API.csproj",
+        "projectName": "1 - Ecomerce.API",
+        "projectPath": "/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/1 - Ecomerce.API.csproj",
+        "packagesPath": "/home/lucas/.nuget/packages/",
+        "outputPath": "/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lucas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/2 - Ecomerce.Domain.csproj": {
+                "projectPath": "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/2 - Ecomerce.Domain.csproj"
+              },
+              "/home/lucas/Documentos/EcomerceApp/src/3 - Ecomerce.Services/3 - Ecomerce.Services.csproj": {
+                "projectPath": "/home/lucas/Documentos/EcomerceApp/src/3 - Ecomerce.Services/3 - Ecomerce.Services.csproj"
+              },
+              "/home/lucas/Documentos/EcomerceApp/src/4 - Ecomerce.Infra/4 - Ecomerce.Infra.csproj": {
+                "projectPath": "/home/lucas/Documentos/EcomerceApp/src/4 - Ecomerce.Infra/4 - Ecomerce.Infra.csproj"
+              },
+              "/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/5 - Ecomerce.Core.csproj": {
+                "projectPath": "/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/5 - Ecomerce.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/2 - Ecomerce.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/2 - Ecomerce.Domain.csproj",
+        "projectName": "2 - Ecomerce.Domain",
+        "projectPath": "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/2 - Ecomerce.Domain.csproj",
+        "packagesPath": "/home/lucas/.nuget/packages/",
+        "outputPath": "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lucas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/5 - Ecomerce.Core.csproj": {
+                "projectPath": "/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/5 - Ecomerce.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "fluentvalidation": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/lucas/Documentos/EcomerceApp/src/3 - Ecomerce.Services/3 - Ecomerce.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lucas/Documentos/EcomerceApp/src/3 - Ecomerce.Services/3 - Ecomerce.Services.csproj",
+        "projectName": "3 - Ecomerce.Services",
+        "projectPath": "/home/lucas/Documentos/EcomerceApp/src/3 - Ecomerce.Services/3 - Ecomerce.Services.csproj",
+        "packagesPath": "/home/lucas/.nuget/packages/",
+        "outputPath": "/home/lucas/Documentos/EcomerceApp/src/3 - Ecomerce.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lucas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/2 - Ecomerce.Domain.csproj": {
+                "projectPath": "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/2 - Ecomerce.Domain.csproj"
+              },
+              "/home/lucas/Documentos/EcomerceApp/src/4 - Ecomerce.Infra/4 - Ecomerce.Infra.csproj": {
+                "projectPath": "/home/lucas/Documentos/EcomerceApp/src/4 - Ecomerce.Infra/4 - Ecomerce.Infra.csproj"
+              },
+              "/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/5 - Ecomerce.Core.csproj": {
+                "projectPath": "/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/5 - Ecomerce.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/lucas/Documentos/EcomerceApp/src/4 - Ecomerce.Infra/4 - Ecomerce.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lucas/Documentos/EcomerceApp/src/4 - Ecomerce.Infra/4 - Ecomerce.Infra.csproj",
+        "projectName": "4 - Ecomerce.Infra",
+        "projectPath": "/home/lucas/Documentos/EcomerceApp/src/4 - Ecomerce.Infra/4 - Ecomerce.Infra.csproj",
+        "packagesPath": "/home/lucas/.nuget/packages/",
+        "outputPath": "/home/lucas/Documentos/EcomerceApp/src/4 - Ecomerce.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lucas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/2 - Ecomerce.Domain.csproj": {
+                "projectPath": "/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/2 - Ecomerce.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/5 - Ecomerce.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/5 - Ecomerce.Core.csproj",
+        "projectName": "5 - Ecomerce.Core",
+        "projectPath": "/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/5 - Ecomerce.Core.csproj",
+        "packagesPath": "/home/lucas/.nuget/packages/",
+        "outputPath": "/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lucas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

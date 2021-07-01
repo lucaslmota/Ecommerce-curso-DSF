@@ -1,0 +1,14 @@
+
+
+.GroupBotaoStructure{
+    display: flex !important;
+    justify-content: space-around !important;
+    margin: 0 -5px;
+   
+}
+
+.StructureManual {
+    display: flex !important;
+    align-items: center !important; 
+   
+}

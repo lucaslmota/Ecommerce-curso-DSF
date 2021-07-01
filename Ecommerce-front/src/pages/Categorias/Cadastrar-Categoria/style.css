@@ -1,0 +1,16 @@
+
+.BoxContainer{
+   margin-top: 50px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1.05163px solid #CECEDE;
+
+}
+.Navigation{
+    padding: .5rem 0rem !important;
+}
+
+.NavigationRegister{
+   margin-top: 2rem;
+   padding: 0 !important;
+}

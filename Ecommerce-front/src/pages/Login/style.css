@@ -1,0 +1,13 @@
+
+#MainHeader{
+    display: flex;
+    justify-content: center;
+
+    background-color:#004a70;
+    padding: 1rem;
+   
+}
+
+#Register{
+    background-color:#004a70;
+}

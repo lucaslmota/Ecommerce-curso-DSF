@@ -1,0 +1,15 @@
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/bin/Debug/net5.0/2 - Ecomerce.Domain.deps.json
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/bin/Debug/net5.0/2 - Ecomerce.Domain.dll
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/bin/Debug/net5.0/ref/2 - Ecomerce.Domain.dll
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/bin/Debug/net5.0/2 - Ecomerce.Domain.pdb
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/bin/Debug/net5.0/5 - Ecomerce.Core.dll
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/bin/Debug/net5.0/5 - Ecomerce.Core.pdb
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/obj/Debug/net5.0/2 - Ecomerce.Domain.csproj.AssemblyReference.cache
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/obj/Debug/net5.0/2 - Ecomerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/obj/Debug/net5.0/2 - Ecomerce.Domain.AssemblyInfoInputs.cache
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/obj/Debug/net5.0/2 - Ecomerce.Domain.AssemblyInfo.cs
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/obj/Debug/net5.0/2 - Ecomerce.Domain.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/obj/Debug/net5.0/2 - Ecomerce.Domain.csproj.CopyComplete
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/obj/Debug/net5.0/2 - Ecomerce.Domain.dll
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/obj/Debug/net5.0/ref/2 - Ecomerce.Domain.dll
+/home/lucas/Documentos/EcomerceApp/src/2 - Ecomerce.Domain/obj/Debug/net5.0/2 - Ecomerce.Domain.pdb

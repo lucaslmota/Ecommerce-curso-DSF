@@ -1,0 +1,56 @@
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/appsettings.Development.json
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/appsettings.json
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/1 - Ecomerce.API
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/1 - Ecomerce.API.deps.json
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/1 - Ecomerce.API.runtimeconfig.json
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/1 - Ecomerce.API.runtimeconfig.dev.json
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/1 - Ecomerce.API.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/ref/1 - Ecomerce.API.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/1 - Ecomerce.API.pdb
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/AutoMapper.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/FluentValidation.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Humanizer.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Npgsql.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/2 - Ecomerce.Domain.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/3 - Ecomerce.Services.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/4 - Ecomerce.Infra.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/5 - Ecomerce.Core.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/2 - Ecomerce.Domain.pdb
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/3 - Ecomerce.Services.pdb
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/4 - Ecomerce.Infra.pdb
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/bin/Debug/net5.0/5 - Ecomerce.Core.pdb
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/1 - Ecomerce.API.csproj.AssemblyReference.cache
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/1 - Ecomerce.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/1 - Ecomerce.API.AssemblyInfoInputs.cache
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/1 - Ecomerce.API.AssemblyInfo.cs
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/1 - Ecomerce.API.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/1 - Ecomerce.API.MvcApplicationPartsAssemblyInfo.cs
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/1 - Ecomerce.API.MvcApplicationPartsAssemblyInfo.cache
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/staticwebassets/1 - Ecomerce.API.StaticWebAssets.Manifest.cache
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/staticwebassets/1 - Ecomerce.API.StaticWebAssets.xml
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/scopedcss/bundle/1 - Ecomerce.API.styles.css
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/1 - Ecomerce.API.RazorTargetAssemblyInfo.cache
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/1 - Ecomerce.API.csproj.CopyComplete
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/1 - Ecomerce.API.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/ref/1 - Ecomerce.API.dll
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/1 - Ecomerce.API.pdb
+/home/lucas/Documentos/EcomerceApp/src/1 - Ecomerce.API/obj/Debug/net5.0/1 - Ecomerce.API.genruntimeconfig.cache

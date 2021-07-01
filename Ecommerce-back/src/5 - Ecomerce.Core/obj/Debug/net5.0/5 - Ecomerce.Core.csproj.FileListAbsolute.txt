@@ -1,0 +1,12 @@
+/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/bin/Debug/net5.0/5 - Ecomerce.Core.deps.json
+/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/bin/Debug/net5.0/5 - Ecomerce.Core.dll
+/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/bin/Debug/net5.0/ref/5 - Ecomerce.Core.dll
+/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/bin/Debug/net5.0/5 - Ecomerce.Core.pdb
+/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/obj/Debug/net5.0/5 - Ecomerce.Core.csproj.AssemblyReference.cache
+/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/obj/Debug/net5.0/5 - Ecomerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/obj/Debug/net5.0/5 - Ecomerce.Core.AssemblyInfoInputs.cache
+/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/obj/Debug/net5.0/5 - Ecomerce.Core.AssemblyInfo.cs
+/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/obj/Debug/net5.0/5 - Ecomerce.Core.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/obj/Debug/net5.0/5 - Ecomerce.Core.dll
+/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/obj/Debug/net5.0/ref/5 - Ecomerce.Core.dll
+/home/lucas/Documentos/EcomerceApp/src/5 - Ecomerce.Core/obj/Debug/net5.0/5 - Ecomerce.Core.pdb
